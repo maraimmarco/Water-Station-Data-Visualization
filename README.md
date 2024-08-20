@@ -4,10 +4,7 @@ This project simulates data generation and aggregation for water stations, inclu
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Deliverables](#deliverables)
 - [Generated Data](#generated-data)
-- [Contributing](#contributing)
 
 ## Introduction
 
