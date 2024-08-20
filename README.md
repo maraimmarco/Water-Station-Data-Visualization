@@ -33,6 +33,7 @@ To use this project, you'll need the following dependencies installed:
 You can install the dependencies using the following command:
 ```bash
 pip install pandas numpy
+```
 
 ## Generated Data
 
